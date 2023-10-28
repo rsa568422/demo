@@ -1,8 +1,8 @@
-package com.example.demo;
+package com.example.batch;
 
-import com.example.demo.listeners.JobListener;
-import com.example.demo.models.Persona;
-import com.example.demo.processors.PersonaItemProcessor;
+import com.example.batch.listeners.JobListener;
+import com.example.batch.models.Persona;
+import com.example.batch.processors.PersonaItemProcessor;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;

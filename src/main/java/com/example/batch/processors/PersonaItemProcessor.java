@@ -1,6 +1,6 @@
-package com.example.demo.processors;
+package com.example.batch.processors;
 
-import com.example.demo.models.Persona;
+import com.example.batch.models.Persona;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
